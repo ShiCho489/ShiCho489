@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shivani.
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning Web Development from Metropolia University of Applied Sciences, Finland.
-- 💞️ I’m looking to collaborate on Full-Stack web applications development.
+- 🌱 I’m graduated in Bachelor of Engineering from Metropolia University of Applied Sciences, Finland in 2024.
+- 💞️ I’m looking to collaborate on Engineering roles and tasks.
 - 📫 How to reach me Linkedin--https://www.linkedin.com/in/shicho489/
 
 
@@ -14,4 +14,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">Hi, I am Shivani.</h1>
-<h1 align="center">I am a Web Developer.</h1>
+<h1 align="center">Software Developer | Data- Enthusiast | Innovative mindset | 3xMicrosoft Certified</h1>
