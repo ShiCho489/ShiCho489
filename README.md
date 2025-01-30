@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shivani.
 - 👀 I’m interested in coding.
 - 🌱 I’m graduated in Bachelor of Engineering from Metropolia University of Applied Sciences, Finland in 2024.
-- 💞️ I’m looking to collaborate on Junior Software Engineering roles and tasks.
+- 💞️ I’m looking to collaborate on Junior Software Engineering roles and tasks. I am passionate about data, and cloud services. I would be glad to get an opportunity to exapnd my horizon of learning and gaining experience in the field of CloudOps. I have fair knowledge and understanding of Microsoft Azure and its services, such as its native tools, Azure workbooks. I am happy to learn and enrich my experience and understanding with other cloud services also (AWS, Google).
 - 📫 How to reach me Linkedin--https://www.linkedin.com/in/shicho489/
 
 
