@@ -14,4 +14,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">Hi, I am Shivani.</h1>
-<h1 align="center">Software Engineer | Data- Enthusiast | Innovative mindset | 3xMicrosoft Certified</h1>
+<h1 align="center">Software Engineer | Data- Enthusiast | Innovative mindset | 3xMicrosoft Certified | FinOps Certified Practitioner </h1>
