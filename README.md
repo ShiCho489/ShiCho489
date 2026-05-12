@@ -22,7 +22,7 @@
 - Azure Key Vault
 
 ## 💻 Programming Languages
-- Python
+- Python 
 - SQL
 - PySpark
 - Spark SQL
@@ -46,6 +46,13 @@
 ## ⚙️ Tools & DevOps
 - Git & GitHub
 - Azure DevOps
+  
+# 🤖 Exploring AI & Intelligent Systems
+
+- Learning Agentic AI concepts
+- Building AI-powered automation projects
+- Working with Python, Pandas, and NumPy
+- Exploring intelligent data-driven applications
 
 # 📌 Featured Project
 
@@ -75,5 +82,5 @@ ShiCho489/ShiCho489 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="center">Hi, I am Shivani.</h1>
+<h1 align="center">Hi, I am Shivani. Junior Data Engineer skilled in ETL pipelines, Power BI, PySpark, and cloud analytics, currently exploring AI agents, Pandas, NumPy, and intelligent data-driven solutions.</h1>
 <h1 align="center"> AI Enabled Data Engineer | Data- Enthusiast | Innovative mindset | 3xMicrosoft Certified | Cloud Enthusiast | FinOps Certified Practitioner </h1>
