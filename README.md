@@ -47,9 +47,9 @@
 - Git & GitHub
 - Azure DevOps
   
-# 🤖 Exploring AI & Intelligent Systems
+# 🤖 AI & Intelligent Systems
 
-- Learning Agentic AI concepts
+- Agentic AI Application
 - Building AI-powered automation projects
 - Working with Python, Pandas, and NumPy
 - Exploring intelligent data-driven applications
