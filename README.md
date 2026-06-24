@@ -1,7 +1,7 @@
-- 👩🏻‍💻 About Me
+  👩🏻‍💻 About Me
 - 👋 Hi, I’m Shivani.
 - 🌱 I’m graduated in Bachelor of Engineering from Metropolia University of Applied Sciences, Finland in 2024.
-- 💞️ I’m looking to collaborate on Associate Data Analyst or Business Analyst roles and tasks. I am passionate about data, and cloud services. I have couple of years of experience in SQL and Power BI reporting and dashboard development,               followed by hands-on experience in Azure Data Engineering and ETL pipeline development. Passionate about Cloud Data Engineering, Data Analytics, and Business Intelligence.
+- 💞️ I’m looking to collaborate on Associate Data Analyst or Business Analyst roles and tasks. I am passionate about data, and cloud services. I have couple of years of experience in SQL and Power BI reporting and dashboard development,               followed by hands-on experience in Azure Data Engineering and ETL pipeline development. 
 
   🛠️ Tech Stack
 
