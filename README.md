@@ -1,14 +1,7 @@
-- 👋 Hi, I’m Shivani.
-- 👀 I’m interested in coding.
-- 🌱 I’m graduated in Bachelor of Engineering from Metropolia University of Applied Sciences, Finland in 2024.
-- 💞️ I’m looking to collaborate on Junior Data Engineer roles and tasks. I am passionate about data, and cloud services. I have 1 year of experience in Power BI reporting and dashboard development, followed by hands-on experience in Azure Data       Engineering and ETL pipeline development. 
 - 👩🏻‍💻 About Me
-
-- 🔹 Azure Data Engineer with hands-on experience in ETL/ELT pipeline development
-- 🔹 Skilled in Azure Data Factory, Databricks, Synapse Analytics, and Power BI
-- 🔹 Experienced in transforming and processing large datasets using PySpark
-- 🔹 Passionate about Cloud Data Engineering, Data Analytics, and Business Intelligence
-- 🔹 Currently learning Delta Lake, CI/CD pipelines, and Medallion Architecture
+- 👋 Hi, I’m Shivani.
+- 🌱 I’m graduated in Bachelor of Engineering from Metropolia University of Applied Sciences, Finland in 2024.
+- 💞️ I’m looking to collaborate on Associate Data Analyst or Business Analyst roles and tasks. I am passionate about data, and cloud services. I have couple of years of experience in SQL and Power BI reporting and dashboard development,               followed by hands-on experience in Azure Data Engineering and ETL pipeline development. Passionate about Cloud Data Engineering, Data Analytics, and Business Intelligence.
 
   🛠️ Tech Stack
 
@@ -24,8 +17,6 @@
 ## 💻 Programming Languages
 - Python 
 - SQL
-- PySpark
-- Spark SQL
 
 ## 📊 Data Analytics & Visualization
 - Power BI
@@ -34,24 +25,13 @@
 - KPI Reporting
 - Business Intelligence Analytics
 
-## ⚡ Big Data Technologies and Warehousing
-- Apache Spark
-- ETL / ELT Pipelines
-- Data Warehousing
-- Delta Lake
-- Snowlflake
-- Data Modeling
-- Data Transformation
-
 ## ⚙️ Tools & DevOps
 - Git & GitHub
 - Azure DevOps
   
 # 🤖 AI & Intelligent Systems
-
-- Agentic AI Application
-- Building AI-powered automation projects
-- Working with Python, Pandas, and NumPy
+- Agentic AI Application (Prototype)
+- Exlporing AI-powered automation projects
 - Exploring intelligent data-driven applications
 
 # 📌 Featured Project
@@ -82,5 +62,4 @@ ShiCho489/ShiCho489 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="center">Hi, I am Shivani. Junior Data Engineer skilled in ETL pipelines, Power BI, PySpark, and cloud analytics, currently exploring AI agents, Pandas, NumPy, and intelligent data-driven solutions.</h1>
-<h1 align="center"> AI Enabled Data Engineer | Data- Enthusiast | Innovative mindset | 3xMicrosoft Certified | Cloud Enthusiast | FinOps Certified Practitioner </h1>
+<h1 align="center"> AI Enabled Data Analyst | Data- Enthusiast | Innovative mindset | 3xMicrosoft Certified | Cloud Enthusiast | FinOps Certified Practitioner </h1>
